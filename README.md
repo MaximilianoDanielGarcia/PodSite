@@ -1,4 +1,16 @@
-# Astro Starter Kit: Basics
+# Pod for your podcasts
+
+- [Live site here](https://main--deluxe-choux-f671de.netlify.app/)
+
+## Screenshots
+
+![Desktop screenshot](/public/assets/screenshots/desktop.jpeg)
+
+![Tablet screenshot](/public/assets/screenshots/tablet.jpeg)
+
+![Mobile screenshot](/public/assets/screenshots/mobile.jpeg)
+
+## Astro Starter Kit: Basics
 
 ```sh
 npm create astro@latest -- --template basics
