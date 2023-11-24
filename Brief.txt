@@ -1,0 +1,13 @@
+Your challenge is to build out this early access landing page and get it looking as close to the design as possible.
+
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+This challenge does include some JS, but it's only a small amount for the custom form validation.
+
+Your users should be able to:
+
+Receive an error message when the form is submitted if:
+The Email address field is empty should show "Oops! Please add your email"
+The email is not formatted correctly should show "Oops! Please check your email"
+View the optimal layout depending on their device's screen size
+See hover states for interactive elements
